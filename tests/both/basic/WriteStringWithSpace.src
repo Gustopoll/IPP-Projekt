@@ -1,0 +1,5 @@
+.ippcode19
+defvar GF@a
+
+MOVE GF@a string@this\032is\032space
+WRITE GF@a

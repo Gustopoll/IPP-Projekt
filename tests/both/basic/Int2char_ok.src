@@ -1,0 +1,7 @@
+.ippcode19
+
+defvar GF@a
+
+int2char GF@a int@97
+write GF@a
+

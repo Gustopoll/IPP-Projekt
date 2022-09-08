@@ -1,0 +1,15 @@
+.ippcode19
+
+defvar GF@a
+MOVE GF@a string@nene
+
+JUMP skok
+WRITE GF@a
+
+
+LABEL skok
+
+
+
+
+

@@ -1,0 +1,17 @@
+.ippcode19
+
+createframe
+pushframe
+
+defvar LF@a
+move LF@a int@69
+
+createframe
+pushframe
+
+defvar LF@a
+move LF@a string@bad
+
+popframe
+write LF@a
+popframe

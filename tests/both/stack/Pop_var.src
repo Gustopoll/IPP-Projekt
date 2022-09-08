@@ -1,0 +1,6 @@
+.ippcode19
+
+pushs int@1
+
+defvar GF@a
+pops GF@a

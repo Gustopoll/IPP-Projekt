@@ -1,0 +1,8 @@
+.ippcode19
+
+call ab
+label a
+
+return
+label ab
+call a

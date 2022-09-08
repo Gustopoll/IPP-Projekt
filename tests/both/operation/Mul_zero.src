@@ -1,0 +1,5 @@
+.ippcode19
+
+defvar GF@a
+mul GF@a int@0 int@4
+write GF@a

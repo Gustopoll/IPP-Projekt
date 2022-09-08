@@ -1,0 +1,10 @@
+.ippcode19
+
+call a
+
+call b
+label a
+write string@a
+return
+
+label b

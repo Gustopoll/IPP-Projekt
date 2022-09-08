@@ -1,0 +1,6 @@
+.ippcode19
+
+defvar GF@a
+
+strlen GF@a string@dom
+write GF@a

@@ -1,0 +1,6 @@
+.ippcode19
+
+createframe
+pushframe
+defvar LF@a
+popframe

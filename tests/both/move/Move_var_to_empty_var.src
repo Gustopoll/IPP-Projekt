@@ -1,0 +1,9 @@
+.ippcode19
+
+defvar GF@a
+defvar GF@b
+
+move GF@b string@ahoj
+move GF@a GF@b
+
+write GF@a

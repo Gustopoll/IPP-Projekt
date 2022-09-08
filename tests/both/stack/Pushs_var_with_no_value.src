@@ -1,0 +1,4 @@
+.ippcode19
+
+DEFVAR GF@a
+pushs GF@a
